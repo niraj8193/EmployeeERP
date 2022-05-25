@@ -1,4 +1,4 @@
-package com.jbk.service.imp;
+package com.jbk.service.impl;
 
 import java.util.List;
 
